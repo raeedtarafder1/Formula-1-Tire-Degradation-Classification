@@ -144,7 +144,3 @@ Then open `APS360_Final_Project.ipynb` and run the cells in order. Notes:
 - Sasikumar, Leema, and Balakrishnan. Data-driven pit stop decision support for Formula 1 using deep learning models. *Frontiers in Artificial Intelligence*, 8, 2025.
 - Todd et al. Explainable time series prediction of tyre energy in Formula One race strategy. *Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing*, 2025.
 - FIA. 2023 Formula 1 Technical Regulations, Issue 6. 2023.
-
-## Author
-
-Raeed Abedin Tarafder
